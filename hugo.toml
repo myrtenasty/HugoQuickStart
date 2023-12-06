@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'cn-zh'
+title = 'A test website'
+theme = 'ananke'
+
+[params]
+    custom_css = ["styles.css"]
